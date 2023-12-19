@@ -152,6 +152,7 @@ header .navbar a:hover {
 @media (max-width: 767px) {
   .main {
     background: url(../images/background2.jpeg);
+    background-size: 1000px;
   }
 }
 
